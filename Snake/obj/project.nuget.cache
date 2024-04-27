@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "idw7He2lmwsq40s5D623dNP61RKQSHZHQtYb7E70Q6em+i5u5LIaKZc7p1piruUbOJoreO4vDgMzaUMgJ6DHOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Syrul\\source\\repos\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syrul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Syrul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Syrul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Syrul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
